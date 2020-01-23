@@ -1,0 +1,11 @@
+
+a.button {
+    display: block;
+    padding: 10px 15px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    max-width: 300px;
+    margin: 0 auto;
+}
